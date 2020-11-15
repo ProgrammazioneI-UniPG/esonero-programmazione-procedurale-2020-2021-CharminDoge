@@ -59,6 +59,7 @@ int main(){
     }
     printf("\nEcco la tua key:\n");
     printSpeciali(key, len);
+    printf("\n");
     printHex(key, len);
     printf("\n");
   }
